@@ -1,2 +1,2 @@
 # amiga
-A Friendly CMS for Developers and Content Editors alike
+A Friendly CMS for Developers and Content Editors.
